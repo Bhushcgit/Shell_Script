@@ -1,0 +1,277 @@
+Country Code            Time Zone
+United_Arab_Emirates    Asia/Dubai
+Afghanistan             Asia/Kabul
+Armenia                 Asia/Yerevan
+Azerbaijan              Asia/Baku
+Bangladesh              Asia/Dhaka
+Bahrain                 Asia/Bahrain
+Brunei_Darussalam       Asia/Brunei
+Bhutan                  Asia/Thimphu
+China                   Asia/Shanghai
+Cyprus                  Asia/Famagusta
+Georgia                 Asia/Tbilisi
+HongKong                Asia/Hong_Kong
+Indonesia               Asia/Jakarta
+Israel                  Asia/Jerusalem
+India                   Asia/Kolkata
+Iraq                    Asia/Baghdad
+Iran                    Asia/Tehran
+Jordan                  Asia/Amman
+Japan                   Asia/Tokyo
+Kyrgyzstan              Asia/Bishkek
+Cambodia                Asia/Phnom_Penh
+Korea                   Asia/Pyongyang
+Kuwait                  Asia/Kuwait
+Kazakhstan              Asia/Almaty
+Lao                     Asia/Vientiane
+Lebanon                 Asia/Beirut
+SriLanka                Asia/Colombo
+Myanmar                 Asia/Yangon
+Mongolia                Asia/Choibalsan
+Macao                   Asia/Macau
+Malaysia                Asia/Kuala_Lumpur
+Nepal                   Asia/Kathmandu
+Oman                    Asia/Muscat
+Philippines             Asia/Manila
+Pakistan                Asia/Karachi
+Palestine               Asia/Gaza
+Qatar                   Asia/Qatar
+Russian                 Asia/Anadyr
+RussianFederation       Asia/Barnaul
+Saudi Arabia            Asia/Riyadh
+Singapore               Asia/Singapore
+SyrianArabRepublic      Asia/Damascus
+Thailand                Asia/Bangkok
+Tajikistan              Asia/Dushanbe
+Timor-Leste             Asia/Dili
+Turkmenistan            Asia/Ashgabat
+Taiwan                  Asia/Taipei
+Uzbekistan              Asia/Samarkand
+Uzbekistan              Asia/Tashkent
+VietNam                 Asia/Ho_Chi_Minh
+Yemen                   Asia/Aden
+
+Angola          Africa/Luanda   UTC +00:13
+BurkinaFaso     Africa/Ouagadougou      UTC -00:16
+Burundi         Africa/Bujumbura        UTC +02:10
+Benin           Africa/Porto-Novo       UTC +00:13
+Botswana        Africa/Gaborone UTC +02:10
+Congo           Africa/Kinshasa UTC +00:13
+Congo           Africa/Lubumbashi       UTC +02:10
+CentralAfricanRepublic  Africa/Bangui   UTC +00:13
+Congo           Africa/Brazzaville      UTC +00:13
+Côted'Ivoire    Africa/Abidjan  UTC -00:16
+Cameroon        Africa/Douala   UTC +00:13
+Djibouti        Africa/Djibouti UTC +02:27
+Algeria         Africa/Algiers  UTC +00:12
+Egypt           Africa/Cairo    UTC +02:05
+WesternSahara   Africa/El_Aaiun UTC -00:52
+Eritrea         Africa/Asmara   UTC +02:27
+Spain           Africa/Ceuta    UTC -00:21
+Ethiopia        Africa/Addis_Ababa      UTC +02:27
+Gabon           Africa/Libreville       UTC +00:13
+Ghana           Africa/Accra    UTC -00:16
+Gambia          Africa/Banjul   UTC -00:16
+Guinea          Africa/Conakry  UTC -00:16
+EquatorialGuinea        Africa/Malabo   UTC +00:13
+Guinea-Bissau           Africa/Bissau   UTC -01:02
+Kenya           Africa/Nairobi  UTC +02:27
+Liberia         Africa/Monrovia UTC -00:43
+Lesotho         Africa/Maseru   UTC +01:52
+Libya           Africa/Tripoli  UTC +00:52
+Morocco         Africa/Casablanca       UTC -00:30
+Mali            Africa/Bamako   UTC -00:16
+Mauritania      Africa/Nouakchott       UTC -00:16
+Malawi          Africa/Blantyre UTC +02:10
+Mozambique      Africa/Maputo   UTC +02:10
+Namibia         Africa/Windhoek UTC +01:08
+Niger           Africa/Niamey   UTC +00:13
+Nigeria         Africa/Lagos    UTC +00:13
+Rwanda          Africa/Kigali   UTC +02:10
+Sudan           Africa/Khartoum UTC +02:10
+Sierra_Leone    Africa/Freetown UTC -00:16
+Senegal         Africa/Dakar    UTC -00:16
+Somalia         Africa/Mogadishu UTC +02:27
+South Sudan     Africa/Juba     UTC +02:06
+Sao Tome        Africa/Sao_Tome UTC +00:26
+Swaziland       Africa/Mbabane  UTC +01:52
+Chad            Africa/Ndjamena UTC +01:00
+Togo            Africa/Lome     UTC -00:16
+Tunisia         Africa/Tunis    UTC +00:40
+Tanzania        Africa/Dar_es_Salaam    UTC +02:27
+Uganda          Africa/Kampala  UTC +02:27
+SouthAfrica     Africa/Johannesburg     UTC +01:52
+Zambia          Africa/Lusaka   UTC +02:10
+Zimbabwe        Africa/Harare   UTC +02:10
+
+Antigua and Barbuda     America/Antigua
+Anguilla        America/Anguilla
+Argentina       America/Argentina/Buenos_Aires
+AmericanSamoa   Pacific/Pago_Pago
+Aruba           America/Aruba
+Barbados        America/Barbados
+SaintBarthélemy America/St_Barthelemy
+Bolivia         America/La_Paz
+Bonaire         America/Kralendijk
+Brazil          America/Sao_Paulo
+Bahamas         America/Nassau
+Belize          America/Belize
+Canada          America/Atikokan
+Chile           America/Punta_Arenas
+Colombia        America/Bogota
+Costa Rica      America/Costa_Rica
+Cuba            America/Havana
+Curaçao         America/Curacao
+Dominica        America/Dominica
+DominicanRepublic       America/Santo_Domingo
+Ecuador         America/Guayaquil
+Grenada         America/Grenada
+FrenchGuiana    America/Cayenne
+Greenland       America/Danmarkshavn
+Guadeloupe      America/Guadeloupe
+Guatemala       America/Guatemala
+Guyana          America/Guyana
+Honduras        America/Tegucigalpa
+Haiti           America/Port-au-Prince
+Jamaica         America/Jamaica
+SaintKitts      America/St_Kitts
+CaymanIslands   America/Cayman
+SaintLucia      America/St_Lucia
+SaintMartin     America/Marigot
+Martinique      America/Martinique
+Montserrat      America/Montserrat
+Mexico          America/Bahia_Banderas
+Nicaragua       America/Managua
+Panama          America/Panama
+Peru            America/Lima
+SaintPierre_Miquelon    America/Miquelon
+PuertoRico      America/Puerto_Rico
+Paraguay        America/Asuncion
+Suriname        America/Paramaribo
+ElSalvador      America/El_Salvador
+SintMaarten(Dutch part) America/Lower_Princes
+Turksand_Caicos_Islands America/Grand_Turk
+Trinidad and Tobago     America/Port_of_Spain
+United States   America/New_York
+UnitedStates_North_Dakota       America/North_Dakota/New_Salem
+Uruguay         America/Montevideo
+SaintVincent    America/St_Vincent
+Venezuela       America/Caracas
+Virgin          America/Tortola
+
+Andorra         Europe/Andorra
+Albania         Europe/Tirane
+Austria         Europe/Vienna
+ÅlandIslands    Europe/Mariehamn
+Bosnia          Europe/Sarajevo
+Belgium         Europe/Brussels
+Bulgaria        Europe/Sofia
+Belarus         Europe/Minsk
+Switzerland     Europe/Zurich
+CzechRepublic   Europe/Prague
+Germany         Europe/Berlin
+Germany         Europe/Busingen
+Denmark         Europe/Copenhagen
+Estonia         Europe/Tallinn
+Spain           Europe/Madrid
+Finland         Europe/Helsinki
+France          Europe/Paris
+United Kingdom  Europe/London
+Guernsey        Europe/Guernsey
+Gibraltar       Europe/Gibraltar
+Greece          Europe/Athens
+Croatia         Europe/Zagreb
+Hungary         Europe/Budapest
+Ireland         Europe/Dublin
+Isle_of_Man     Europe/Isle_of_Man
+Italy           Europe/Rome
+Jersey          Europe/Jersey
+Liechtenstein   Europe/Vaduz
+Lithuania       Europe/Vilnius
+Luxembourg      Europe/Luxembourg
+Latvia          Europe/Riga
+Monaco          Europe/Monaco
+Moldova         Europe/Chisinau
+Montenegro      Europe/Podgorica
+Macedonia       Europe/Skopje
+Malta           Europe/Malta
+Netherlands     Europe/Amsterdam
+Norway          Europe/Oslo
+Poland          Europe/Warsaw
+Portugal        Europe/Lisbon
+Romania         Europe/Bucharest
+Serbia          Europe/Belgrade
+RussianFederation       Europe/Astrakhan
+Sweden          Europe/Stockholm
+Slovenia        Europe/Ljubljana
+Slovakia        Europe/Bratislava
+San Marino      Europe/San_Marino
+Turkey          Europe/Istanbul
+Ukraine         Europe/Kyiv
+HolySee         Europe/Vatican
+
+Bermuda         Atlantic/Bermuda
+CapeVerde       Atlantic/Cape_Verde
+Spain           Atlantic/Canary
+FalklandIslands(Malvinas)       Atlantic/Stanley
+Faroe Islands   Atlantic/Faroe
+South Georgia   Atlantic/South_Georgia
+Iceland         Atlantic/Reykjavik
+Portugal        Atlantic/Azores
+Portugal        Atlantic/Madeira
+Saint Helena    Atlantic/St_Helena
+
+American Samoa  Pacific/Pago_Pago
+Cook Islands    Pacific/Rarotonga
+Chile           Pacific/Easter
+Ecuador         Pacific/Galapagos
+Fiji            Pacific/Fiji
+Micronesia      Pacific/Chuuk
+Guam            Pacific/Guam
+Kiribati        Pacific/Kiritimati
+MarshallIslands Pacific/Kwajalein
+NorthernMarianaIslands  Pacific/Saipan
+NewCaledonia    Pacific/Noumea
+NorfolkIsland   Pacific/Norfolk
+Nauru           Pacific/Nauru
+Niue            Pacific/Niue
+NewZealand      Pacific/Auckland
+FrenchPolynesia Pacific/Gambier
+PapuaNewGuinea  Pacific/Bougainville
+Pitcairn        Pacific/Pitcairn
+Palau           Pacific/Palau
+SolomonIslands  Pacific/Guadalcanal
+Tokelau         Pacific/Fakaofo
+Tonga           Pacific/Tongatapu
+Tuvalu          Pacific/Funafuti
+UnitedStates    Pacific/Midway
+UnitedStateMinorOutlyingIslands Pacific/Wake
+UnitedStates    Pacific/Honolulu
+Vanuatu         Pacific/Efate
+WalliFutuna     Pacific/Wallis
+Samoa           Pacific/Apia
+
+Australia       Antarctica/Macquarie
+Australia       Australia/Adelaide
+Australia       Australia/Adelaide
+Australia       Australia/Brisbane
+Australia       Australia/Broken_Hill
+Australia       Australia/Darwin
+Australia       Australia/Eucla
+Australia       Australia/Hobart
+Australia       Australia/Lindeman
+
+
+Antarctica      Antarctica/Casey
+Antarctica      Antarctica/Davis
+Antarctica      Antarctica/DumontDUrville
+Antarctica      Antarctica/Mawson
+Antarctica      Antarctica/McMurdo
+Antarctica      Antarctica/Palmer
+Antarctica      Antarctica/Rothera
+Antarctica      Antarctica/Syowa
+Antarctica      Antarctica/Troll
+Antarctica      Antarctica/Vostok
+
+Svalbard        Arctic/Longyearbyen
+JanMayen        Arctic/Longyearbyen
